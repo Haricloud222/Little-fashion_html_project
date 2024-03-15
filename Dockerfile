@@ -1,5 +1,5 @@
 # pull the httpd base docker image
-FROM httpd:latest
+FROM nginx:latest
 
 # person who is maintinaing it 
 MAINTAINER "hari3749@GMAIL.COM
